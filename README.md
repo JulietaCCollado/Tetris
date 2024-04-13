@@ -42,8 +42,8 @@ This project is a Python implementation of Tetris using the Pygame library.
 - `position.py`: Defines the position of rows and columns for the game.
 
 
-## Contributors
-- [Your Name or GitHub Username](link-to-your-profile) - Role (e.g., Developer, Designer)
+## Contributor
+- JulietaCCollado (https://github.com/JulietaCCollado) - Developer
 
 
 ## Acknowledgements
